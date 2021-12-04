@@ -4,3 +4,5 @@ text2
 text3 for commit 3
 -----merged from feature 1-----
 text in feature 1
+text for commit 4
+random text for commit 4
