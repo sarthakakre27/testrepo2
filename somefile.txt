@@ -1,3 +1,4 @@
 hey!
 text1
-text2 for bugfix
+text2 for feature2
+text3 for feature2
